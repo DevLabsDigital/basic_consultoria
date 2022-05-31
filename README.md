@@ -21,6 +21,6 @@ Esse projeto necessita:
 
 
 Como rodar esse projeto:
- substitua o database.example.yml por um database.yml
+ primeiro: `substitua o database.example.yml por um database.yml`
  pode rodar normalmente como qualquer projeto rails ex.: `rails s -b 0.0.0.0`
 
