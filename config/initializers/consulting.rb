@@ -1,0 +1,1 @@
+Consultoria::Engine.config.user_model = 'Profile'
